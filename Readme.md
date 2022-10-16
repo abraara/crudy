@@ -1,6 +1,8 @@
 #  REST API
 In the next few classes your going to be learning how to use ES Modules in the browser to create a simple CRUD (create, read, update, delete) application. We will using an REST API to do this.  
 
+## Adding node_modules to the Window Path or MAC path.....
+
 
 
  
